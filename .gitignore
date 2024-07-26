@@ -1,0 +1,6 @@
+.DS_Store
+.env
+go.mod
+go.sum
+bootstrap
+function.zip
